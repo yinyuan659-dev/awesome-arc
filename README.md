@@ -229,6 +229,8 @@ New to Arc? Start here to learn about the platform, set up your environment, and
 > [!NOTE]
 > Built an open-source project on Arc? We'd love to feature it! Before submitting a pull request, please review the [Contribution Guidelines](CONTRIBUTING.md#community-project-submission-guidelines).
 
+- [ARK Launch](https://github.com/yinyuan659-dev/ark) - Token launchpad on Arc mainnet with USDC-quoted launches, Uniswap V3 liquidity pools, and onchain fee distribution to token creators ([app](https://ark-ai.xyz)).
+
 ## Contributing
 Contributions are welcome! Please see the [Contribution Guidelines](CONTRIBUTING.md) for details on how to contribute.
 
